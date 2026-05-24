@@ -1,4 +1,4 @@
-# Sistema de Produtos (PHP + MySQL)
+﻿# Sistema de Produtos (PHP + MySQL)
 
 Projeto simples de gerenciamento de produtos com autenticação de usuário, desenvolvido em PHP puro com MySQL.
 
